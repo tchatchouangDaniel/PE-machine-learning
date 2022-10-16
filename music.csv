@@ -17,3 +17,7 @@ age,gender,genre
 31,0,Classical
 34,0,Classical
 35,0,Classical
+30,0,Acoustic
+31,0,Classical
+30,1,Jazz
+31,1,Classical
